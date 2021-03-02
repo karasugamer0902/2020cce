@@ -1,6 +1,7 @@
 ##瘋狂程設第一週
 
 #進階題：分式化簡 ADVANCE_002
+用最大公因數的概念把分式化簡
 ```C
 #include <stdio.h>
 int main()
@@ -19,6 +20,7 @@ int main()
 ```
 
 #進階題：讀入整數反序列印 ADVANCE_003
+在陣列中讀入整數後再用FOR迴圈將陣列反向印出
 ```C
 #include <stdio.h>
 int a[10];
@@ -41,6 +43,7 @@ int main()
 ```
 
 #進階題：A的B次方函數 ADVANCE_005_C
+運用FOR迴圈指定A的次方數
 ```C
 #include <stdio.h>
 int MYPOWER(int a , int b)
@@ -62,6 +65,7 @@ int main(void)
 ```
 
 #進階題：漸增數列相加 ADVANCE_006
+運用FOR迴圈印出漸增數列總和
 ```C
 #include <stdio.h>
 int main()
@@ -88,6 +92,7 @@ int main()
 ```
 
 #基礎題：因數個數 BASE_005
+找出整數的因數個數
 ```C
 #include <stdio.h>
 int main()
